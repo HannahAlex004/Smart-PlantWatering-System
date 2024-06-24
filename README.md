@@ -11,5 +11,3 @@ A smart plant watering system uses a soil moisture sensor and LCD display to mon
 7. Battery 
 8. Water flow sensor 
 
-## Circuit Diagram
-![Example Image](Screenshot 2024-06-24 194531.png)
